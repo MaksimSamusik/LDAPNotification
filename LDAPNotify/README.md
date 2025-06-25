@@ -46,7 +46,7 @@ source venv/bin/activate
 
 # 3. Клонирование репозитория
 git clone https://github.com/yourproject/ldapnotify.git
-cd LDAPNotify
+cd LDAPNotify/LDAPNotify
 
 # 4. Установка зависимостей
 pip install -r requirements.txt
