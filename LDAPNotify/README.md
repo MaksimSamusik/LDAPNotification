@@ -1,6 +1,6 @@
 # LDAPNotify System
 
-Система автоматических уведомлений с интеграцией LDAP и Redis
+Система автоматических уведомлений с интеграцией LDAP
 
 ![Django](https://img.shields.io/badge/Django-3.2-green)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue)
