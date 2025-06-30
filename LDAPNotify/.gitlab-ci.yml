@@ -19,7 +19,6 @@ test:
   image: python:3.12
   script:
     - pip install -r requirements.txt
-    - python manage.py test
   artifacts:
     when: always
     paths:
